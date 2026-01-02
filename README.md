@@ -74,9 +74,3 @@ I am a software developer passionate about **System Design** and **Full-Stack De
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=govindsingh3477&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govindsingh3477&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-
-</div>
