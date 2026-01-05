@@ -32,7 +32,7 @@ I am a software developer passionate about **System Design** and **Full-Stack De
 
 * 🔭 **Current Focus:** Preparing for my internship at **Google** & learning Advanced Java/Spring Boot.
 * 🏆 **Achievements:** Top **1%** on LeetCode | **2-Star** CodeChef | GFG Campus Mantri.
-* 💼 **Experience:** Former Intern at **BrainOp Technologies** (Reduced manual setup time by 70%).
+* 💼 **Experience:** Former Intern at **BrainOp Technologies**.
 
 ---
 
